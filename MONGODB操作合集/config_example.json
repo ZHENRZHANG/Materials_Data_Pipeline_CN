@@ -1,0 +1,7 @@
+{
+  "mongodb": {
+    "db_name": "YOUR_DATABASE_NAME",
+    "collection_name": "YOUR_COLLECTION_NAME",
+    "uri": "mongodb+srv://<USER>:<PASSWORD>@<CLUSTER>.mongodb.net/?retryWrites=true&w=majority&appName=<APP_NAME>"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "oss": {
+    "access_key_id": "<你的AccessKey ID>",
+    "access_key_secret": "<你的AccessKey Secret>",
+    "endpoint": "https://oss-cn-<地区>.aliyuncs.com",
+    "bucket_name": "<你的Bucket名称>"
+  }
+}
